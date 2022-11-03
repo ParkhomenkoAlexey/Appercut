@@ -13,6 +13,7 @@
 		303F00E82913BC5400E2AC11 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 303F00E62913BC5400E2AC11 /* Main.storyboard */; };
 		303F00EA2913BC5600E2AC11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 303F00E92913BC5600E2AC11 /* Assets.xcassets */; };
 		303F00ED2913BC5600E2AC11 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 303F00EB2913BC5600E2AC11 /* LaunchScreen.storyboard */; };
+		303F00F52913BCD200E2AC11 /* test_1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 303F00F42913BCD200E2AC11 /* test_1.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		303F00E92913BC5600E2AC11 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		303F00EC2913BC5600E2AC11 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		303F00EE2913BC5600E2AC11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		303F00F42913BCD200E2AC11 /* test_1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test_1.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				303F00E22913BC5400E2AC11 /* SceneDelegate.swift */,
 				303F00E42913BC5400E2AC11 /* ViewController.swift */,
 				303F00E62913BC5400E2AC11 /* Main.storyboard */,
+				303F00F42913BCD200E2AC11 /* test_1.mp4 */,
 				303F00E92913BC5600E2AC11 /* Assets.xcassets */,
 				303F00EB2913BC5600E2AC11 /* LaunchScreen.storyboard */,
 				303F00EE2913BC5600E2AC11 /* Info.plist */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				303F00ED2913BC5600E2AC11 /* LaunchScreen.storyboard in Resources */,
+				303F00F52913BCD200E2AC11 /* test_1.mp4 in Resources */,
 				303F00EA2913BC5600E2AC11 /* Assets.xcassets in Resources */,
 				303F00E82913BC5400E2AC11 /* Main.storyboard in Resources */,
 			);
